@@ -1,0 +1,10 @@
+Repository: https://github.com/ARKkhanz/e-plantShopping
+Expected live URL: https://ARKkhanz.github.io/e-plantShopping/
+
+README.md: https://github.com/ARKkhanz/e-plantShopping/blob/main/README.md
+AboutUs.jsx: https://github.com/ARKkhanz/e-plantShopping/blob/main/src/AboutUs.jsx
+App.css: https://github.com/ARKkhanz/e-plantShopping/blob/main/src/App.css
+App.jsx: https://github.com/ARKkhanz/e-plantShopping/blob/main/src/App.jsx
+CartSlice.jsx: https://github.com/ARKkhanz/e-plantShopping/blob/main/src/CartSlice.jsx
+ProductList.jsx: https://github.com/ARKkhanz/e-plantShopping/blob/main/src/ProductList.jsx
+CartItem.jsx: https://github.com/ARKkhanz/e-plantShopping/blob/main/src/CartItem.jsx
